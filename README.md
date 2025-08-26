@@ -1,6 +1,6 @@
 # BlindHarmony
 Official implementation of BlindHarmony: Blind harmonization for MR image
-> H. Jeong, H. Lee, SY. Shun, and J. Lee, _Efficient and robust 3D blind harmonization for large domain gaps_,
+> H. Jeong, H. Lee, SY. Chun, and J. Lee, _Efficient and robust 3D blind harmonization for large domain gaps_,
 > [[arXiv]](https://arxiv.org/abs/2505.00133)
 
 ## Dependencies
